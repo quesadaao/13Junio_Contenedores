@@ -1,0 +1,1 @@
+https://labs.awscontainerday.com/eks/deploy/applications.html
