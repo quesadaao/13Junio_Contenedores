@@ -21,7 +21,7 @@ services:
     build:
       context: .
       dockerfile: Dockerfile
-    image: nodejs
+    image: pompeyo/13junio:nodejs
     container_name: nodejs
     restart: unless-stopped
     env_file: .env
